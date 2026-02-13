@@ -5,3 +5,5 @@ matplotlib
 seaborn 
 plotly 
 yfinance
+flask 
+flask-cors
